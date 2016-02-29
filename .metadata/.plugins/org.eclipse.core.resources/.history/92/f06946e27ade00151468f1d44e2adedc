@@ -1,0 +1,16 @@
+package com.bazlur.java.array;
+
+public class ArrayDemo {
+	public static void main(String[] args) {
+		int[] anArray;
+		
+		 int anotherArray[];
+		 
+		 long[] anArrayOfLongs;
+		 float[] anArrayOfFloats;
+		 double[] anArrayOfDoubles;
+		 
+		// এখানে ১০ সাইজের একটি এরে ক্রিয়েট করা হলো 
+		 anArray = new int[10];
+	}
+}

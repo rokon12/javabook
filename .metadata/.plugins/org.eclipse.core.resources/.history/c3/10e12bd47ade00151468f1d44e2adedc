@@ -1,0 +1,13 @@
+package com.bazlur.java.array;
+
+public class ArrayDemo {
+	public static void main(String[] args) {
+		int[] anArray;
+		
+		 int anotherArray[];
+		 
+		 long[] anArrayOfLongs;
+		 float[] anArrayOfFloats;
+		 double[] anArrayOfDoubles;
+	}
+}
