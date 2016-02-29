@@ -4,7 +4,7 @@ public class Bicycle {
 	int cadence = 0;
 	int speed = 0;
 	int gear = 1;
-	
+
 	public Bicycle() {
 	}
 
@@ -25,7 +25,8 @@ public class Bicycle {
 	}
 
 	void printStates() {
-		System.out.println("cadence:" + cadence + " speed:" + speed + " gear:"
+		System.out.println("cadence:" + cadence + 
+				" speed:" + speed + " gear:"
 				+ gear);
 	}
 }
