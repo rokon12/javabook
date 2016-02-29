@@ -1,4 +1,4 @@
-package com.bazlur.java.array;
+package com.bazlur.java.block;
 
 public class BlockDemo {
 	public static void main(String[] args) {

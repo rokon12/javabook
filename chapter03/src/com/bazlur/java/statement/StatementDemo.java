@@ -1,4 +1,4 @@
-package com.bazlur.java.array;
+package com.bazlur.java.statement;
 
 import com.bazlur.java.datatype.Bicycle;
 

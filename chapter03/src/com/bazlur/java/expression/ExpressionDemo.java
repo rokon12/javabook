@@ -1,4 +1,4 @@
-package com.bazlur.java.array;
+package com.bazlur.java.expression;
 
 public class ExpressionDemo {
 	public static void main(String[] args) {
