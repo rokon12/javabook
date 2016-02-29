@@ -1,0 +1,15 @@
+package com.bazlur.java.datatype;
+
+public class Example {
+
+	byte myByte;
+	short myShort;
+	char myChar;
+	int myInt;
+	long myLong;
+	float myFloat;
+	double myDouble;
+	
+	myByte   = 127;
+	myFloat  = 199.99;
+}
