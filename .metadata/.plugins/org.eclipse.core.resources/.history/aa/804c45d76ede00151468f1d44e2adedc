@@ -1,5 +1,0 @@
-package com.bazlur.java.syntax;
-
-public class HelloWorld {
-	protected final String hello = "value";
-}

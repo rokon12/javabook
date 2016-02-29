@@ -1,3 +1,0 @@
-INDEX VERSION 1.127+/home/rokonoid/Dropbox/JavaBooks/SourceCode/.metadata/.plugins/org.eclipse.jdt.core
-1569842855.index
-714528305.index
