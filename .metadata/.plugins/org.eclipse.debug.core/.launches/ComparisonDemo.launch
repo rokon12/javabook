@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/chapter-03-datatypes-and-array/src/com/bazlur/java/datatype/ComparisonDemo.java"/>
+<listEntry value="/chapter03/src/com/bazlur/java/datatype/ComparisonDemo.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.bazlur.java.datatype.ComparisonDemo"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="chapter-03-datatypes-and-array"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="chapter03"/>
 </launchConfiguration>
